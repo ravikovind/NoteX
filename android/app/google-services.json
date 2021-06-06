@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768203993510",
+    "project_id": "notex-ravikovind",
+    "storage_bucket": "notex-ravikovind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768203993510:android:8520c4b9edc2d82de35f67",
+        "android_client_info": {
+          "package_name": "com.notex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768203993510-32tb7fkjhgvnj2a33mjm5tsgokp4djbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notex",
+            "certificate_hash": "c030aacb96ac331a75203a5617f8bf1688610094"
+          }
+        },
+        {
+          "client_id": "768203993510-sf473b9s2gsef6kc33e0hcsq64kqc7i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNTpp0eXFk-7_1DgFQHpDaY3rHCuUIr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768203993510-sf473b9s2gsef6kc33e0hcsq64kqc7i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
